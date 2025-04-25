@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a61ea2d4e7838406b97649cd8a3f3f34
+guid: a7994da692eef4500be008b80674eecb
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,13 +110,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: FaceCard_13S
+      name: Spade
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 180
-        height: 288
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -126,7 +126,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 
-      internalID: 8472956440544029004
+      internalID: 5998817178737254285
       vertices: []
       indices: 
       edges: []
@@ -145,7 +145,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      FaceCard_13S: 8472956440544029004
+      Spade: 5998817178737254285
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

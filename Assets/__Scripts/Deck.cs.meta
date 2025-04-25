@@ -1,13 +1,9 @@
 fileFormatVersion: 2
-guid: 4efd6ae9952954b00a0a1bb1113f7ecd
+guid: c802aea097636674d90bc16e75c14f76
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences:
-  - cardSprites: {fileID: 11400000, guid: ab5872269fccf4c44b279f97060c5c52, type: 2}
-  - prefabCard: {fileID: 6718276204669261236, guid: 5255a53b64b1a4240b909bf1cc55b56b, type: 3}
-  - prefabSprite: {fileID: 1000014090761352, guid: 30a6ba41f0d264815a76b64a60ee0b62, type: 3}
-  - deckAnchor: {instanceID: 0}
+  defaultReferences: []
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
